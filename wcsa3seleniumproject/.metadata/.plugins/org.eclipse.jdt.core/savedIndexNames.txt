@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\W10\OneDrive\Desktop\wcsa3workspace\wcsa3seleniumproject\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
